@@ -31,6 +31,7 @@ This command tells the editor that you intend to create HTML code, and it will a
 
 ```
 
+
 ## Step 4: Fill in the fields and create the form
 Once you’ve reached this stage, the next step is to start filling in fields outlined by the above template and create the form.
 Type:
@@ -76,7 +77,7 @@ The command “tr” tells the code to arrange the following statements into a r
 You’ll notice that each time you want to create a new field in your table, you have to type the command “tr” and then close the command with “/tr.” You can add as many fields to your form as you like.
 Here, we’ve just added two for simplicity, but there’s nothing stopping you from adding additional fields such as telephone numbers, reasons for getting in contact, name of the user’s favourite dog, etc.
 You’ll also notice that we’ve been very specific about the input type. When the user types in their email address, the text will appear on their screen, just as it would in a regular word processing document or a search bar. But in the second field we specified the input type as “password” which instructs the program to conceal it and show each character as a little dot. 
- <br /> <br /> <br /> <br /> <br />## Step 5: Add placeholders
+## Step 5: Add placeholders
 A placeholder is text inside your form's fields that prompts users to respond to each field in a particular way.  Here's how you can easily add prompt texts to your HTML registration form:
 ```
 
@@ -126,10 +127,10 @@ To create a field for gender, insert the following values to your code (right ab
 
 This will turn into checkboxes, one for male and one for female. Here's how your form should look now:
 
-##How to make your HTML form look better 
+## How to make your HTML form look better 
 If you're looking to create a very basic form, one way to improve the look of your HTML form is by using CSS. CSS allows you to customise several aspects of the HTML code to make it look better. 
 
-###Fonts and text
+### Fonts and text
 HTML uses a standard font, but CSS allows you to change it to a range of different styles. It’s worth pointing out that the exact style you end up with is usually down to the browser. Firefox, for instance, will churn out different fonts from Safari.
 The trick with font styles is to choose styles that fit the aesthetic of the rest of your website. Some widgets, like “form,” do not automatically use the same font and style as the rest of the browser, meaning that your form could wind up with inconsistent text.
 There's a variety of font and colour elements you can change using CSS. Here's a helpful list.
