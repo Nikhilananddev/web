@@ -1,6 +1,6 @@
-#How To Create A Registration Form in HTML From Scratch#
+# How To Create A Registration Form in HTML From Scratch#
 
-##Step 1: Choose a HTML editor
+## Step 1: Choose a HTML editor
 To create HTML code, you’ll need an HTML editor. There are dozens on the market and many are free to download.
 Popular editors include:
 
@@ -12,10 +12,10 @@ Popular editors include:
 * CoffeeCup
 
 Phase 6 HTML Editor
-All of these editors have large interfaces that enable you to manually enter the code.  <br />
-##Step 2: Create a new file with .HTML extension
-The next step is to tell your operating system that you intend to create a new HTML file. Do this by creating a new file and then saving it with the .html extension. It’s easy: just type the file name (whatever you choose), and then follow it with .html. For example: [myfile.html].  <br />
- <br /> <br /> <br /> ##Step 3: Type <html> into the editor
+All of these editors have large interfaces that enable you to manually enter the code. 
+## Step 2: Create a new file with .HTML extension
+The next step is to tell your operating system that you intend to create a new HTML file. Do this by creating a new file and then saving it with the .html extension. It’s easy: just type the file name (whatever you choose), and then follow it with .html. For example: [myfile.html]. 
+  ## Step 3: Type <html> into the editor
 This command tells the editor that you intend to create HTML code, and it will automatically generate the following code for you.
 
 ```
@@ -31,7 +31,7 @@ This command tells the editor that you intend to create HTML code, and it will a
 
 ```
 
-##Step 4: Fill in the fields and create the form
+## Step 4: Fill in the fields and create the form
 Once you’ve reached this stage, the next step is to start filling in fields outlined by the above template and create the form.
 Type:
 ```
@@ -76,7 +76,7 @@ The command “tr” tells the code to arrange the following statements into a r
 You’ll notice that each time you want to create a new field in your table, you have to type the command “tr” and then close the command with “/tr.” You can add as many fields to your form as you like.
 Here, we’ve just added two for simplicity, but there’s nothing stopping you from adding additional fields such as telephone numbers, reasons for getting in contact, name of the user’s favourite dog, etc.
 You’ll also notice that we’ve been very specific about the input type. When the user types in their email address, the text will appear on their screen, just as it would in a regular word processing document or a search bar. But in the second field we specified the input type as “password” which instructs the program to conceal it and show each character as a little dot. 
- <br /> <br /> <br /> <br /> <br />##Step 5: Add placeholders
+ <br /> <br /> <br /> <br /> <br />## Step 5: Add placeholders
 A placeholder is text inside your form's fields that prompts users to respond to each field in a particular way.  Here's how you can easily add prompt texts to your HTML registration form:
 ```
 
